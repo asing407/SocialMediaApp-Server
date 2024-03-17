@@ -2,6 +2,13 @@
 
 Scrapbook is a photo-sharing website inspired by the simplicity and social engagement of Instagram. Whether it's capturing life's precious moments, exploring the world, or expressing creativity, Scrapbook provides a platform for users to curate their memories and connect with others.
 
+
+
+https://github.com/asing407/SocialMediaApp-Server/assets/144586980/7ec070a9-8a2d-44a0-a68b-67961aa87424
+
+
+
+
 ## Features
 - **User Profiles:** Create personalized profiles to showcase your photos and share a bit about yourself.
 - **Upload Photos:** Easily upload photos from your device to your profile and organize them into albums.
