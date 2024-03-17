@@ -20,3 +20,6 @@ We welcome contributions from the community to improve Scrapbook and make it eve
 
 ##Feedback and Support
 If you have any questions, feedback, or need support, don't hesitate to reach out. We're here to help and continuously improve Scrapbook for our users.
+
+
+## Acknowledgements
