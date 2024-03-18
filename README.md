@@ -17,7 +17,7 @@ https://github.com/asing407/SocialMediaApp-Server/assets/144586980/7ec070a9-8a2d
 - **Notifications:** Stay updated with notifications for likes, comments, and new followers.
 - **Search Functionality:** Find specific profiles or photos with ease using the search bar and hashtags.
 - **Dark Mode:** Use dark mode, when required by your eyes.
-- **FriendReq:** Connect with your friends and family,just one click, send them friend request and connect. 
+- **FriendReq:** Connect with your friends and family, just one click, and you're connected to them. 
 
 ## Getting Started
 To get started with Scrapbook, simply sign up for an account and start sharing your memories! You can also explore content from other users and engage with the community. Clone the client file from my another repo named SocialMediaApp-client for full access to this site. 
